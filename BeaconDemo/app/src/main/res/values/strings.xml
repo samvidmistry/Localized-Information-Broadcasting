@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeaconDemo</string>
+    <string name="stop_scan">STOP SCAN</string>
+    <string name="start_scan">START SCAN</string>
+</resources>
